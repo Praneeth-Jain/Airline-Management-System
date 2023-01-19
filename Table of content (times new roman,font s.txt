@@ -1,0 +1,16 @@
+                        Table of content  (times new roman,font size 12 for others.16 for heading )
+        Chapter no          Title               Page_no(font size 16)
+
+
+        Chapter(16)
+        Introduction(14):-
+        contents(12)
+
+        1.database and types
+        2.hw and sw requirements 
+        3.frontend tools
+        4.backend tools
+        5.snapshot
+
+
+

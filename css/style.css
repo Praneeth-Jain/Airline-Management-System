@@ -1,0 +1,129 @@
+h1{
+	font-family:Arial, Helvetica, sans-serif;
+	font-style: bold;
+	font-size: 50pt;
+	color:blanchedalmond;
+}
+#title{
+	display: inline;
+}
+
+
+ table{
+   font-weight: bolder;
+   background-color: black;
+   opacity: 0.9;
+ }
+
+
+td{
+   font-weight: bold;
+   color: cornsilk;
+}
+
+.page{
+	background: #ffffff;
+}
+
+.logo{
+	float: left;
+	object-fit: cover;
+    width: 55px;
+    padding: 10px;
+}
+.float_form{
+	float: center;
+	
+}
+.center_form{
+	float: center;
+}
+body{
+	background-image: url("../pics/3.jpg");
+	background-position: center;
+	background-size: cover;
+	font-weight: 300;
+	color: #ffa500;
+	font-family: sans-serif;
+	margin: 0px;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+    background-color: #030337;
+}
+li{
+	display: inline;
+	float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 36px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:#453aa8de; 
+    color: #E7E7F6;
+	border-radius: 5px;
+}
+
+
+:hover {
+    background-color:#2715cade; 
+    color: #E7E7F6;
+	border-radius: 3px;
+}
+
+a {
+	color: #ffffff;
+	text-decoration: none;
+	padding-left: 20px;
+}
+/*background-color: white;color: #030337;*/
+a:hover{
+	background-color:#453aa8de; 
+    color: #E7E7F6;
+}
+h2{
+	padding-left: 10px;
+	font-size: 25pt;
+	font-style: bold;
+}
+.heading{
+	font-size:30pt;
+	text-align: center;
+}
+.fix_table{
+	width: 300px;
+}
+.fix_table_short{
+	width: 225px;
+}
+.welcome_text{
+	font-family: sans-serif;
+	font-size: 30pt;
+	color: orange;
+	position: absolute;
+}
+.admin_func:hover{
+	color: #030337;
+	font-style: italic;
+	text-decoration: underline
+}
+.center_submit{
+	text-align: center;
+}
+h3{
+	padding-left: 30px;
+	font-size: 15pt;
+}
+.login_form{
+	float: left;
+}
+

@@ -1,0 +1,132 @@
+h1{
+	font-family: sans-serif;
+	font-style: bold;
+	font-size: 50pt;
+	color: blue;
+	background-image:;
+}
+#title{
+	display: inline;
+}
+.logo{
+	float: left;
+	object-fit: cover;
+    width: 55px;
+    padding: 10px;
+}
+
+.float_form{
+	float: left;
+}
+.center_form{
+	float: center;
+}
+body{
+	/*background: url(C:/xampp/htdocs/shutterstock_1.jpg);*/
+	/*background-repeat: no-repeat;*/
+	/*background-size: 80px 60px;*/
+	background-image: url("C: /xampp/htdocs/1.jpg");
+	color: #030337;
+	font-family: sans-serif;
+	margin: 0px;
+
+}
+ulw {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+    background-color: #030337;
+}
+liw{
+	display: inline;
+	float: left;
+}
+
+liw a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 36px;
+    text-decoration: none;
+}
+nav{
+    margin: 20px;
+    border: 4px solid #5bcce9;
+    justify-content: space-between;
+    width: auto;
+}
+nav ul{
+    list-style: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: lawngreen;
+    overflow: hidden;
+    
+}
+
+
+nav li{
+    display: inline-block;
+    
+}
+
+a{
+    display: block;
+    padding: 8px;
+    color: #030e12;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: #E7E7F6;
+    color: #030337;
+}
+
+laa {
+	color: #030337;
+	text-decoration: none;
+	padding-left: 20px;
+}
+a:hover{
+	background-color: white;
+	color: #030337;
+}
+h2{
+	padding-left: 10px;
+	font-size: 25pt;
+	font-style: bold;
+}
+.heading{
+	font-size:30pt;
+	text-align: center;
+}
+.fix_table{
+	width: 300px;
+}
+.fix_table_short{
+	width: 225px;
+}
+.welcome_text{
+	font-family: sans-serif;
+	font-size: 30pt;
+	color: orange;
+	position: absolute;
+}
+.admin_func:hover{
+	color: #030337;
+	font-style: italic;
+	text-decoration: underline
+}
+.center_submit{
+	text-align: center;
+}
+h3{
+	padding-left: 30px;
+	font-size: 15pt;
+}
+.login_form{
+	float: left;
+}

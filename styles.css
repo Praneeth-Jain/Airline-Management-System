@@ -1,0 +1,189 @@
+.page
+ {
+    width:auto;
+    height:auto;
+    border-style:groove;
+    
+   background-image:url('images/1.jpg');
+   background-position: center;
+   background-size: contain;
+ }
+
+ 
+
+
+
+.headerpart
+ {
+     width:100%;
+     height:200px;
+     padding: 5px;
+     background-color:azure;
+     display: inline-flex;
+
+ }
+
+ table{
+   font-weight: bolder;
+   background-color: black;
+   opacity: 0.6;
+ }
+
+ .headerpart p{
+   color: blue;
+   font-size: 3rem;
+   font-weight: 700;
+   font-style: italic;
+   font-stretch:expanded;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   width: 75%;
+ }
+
+
+.linkspart
+{
+   width:auto;
+   height:60px;
+   margin-top:5px solid black;
+   background-color: azure;
+   border-style:groove;
+   padding-top: 3px;
+   margin: 1px solid black;
+   text-align: center;
+}
+
+
+.linkspart a
+{
+   color:darkorange;
+   text-decoration:none;
+   background-color: blue;
+   text-align: center;
+   font: 1.4em sans-serif;
+   border: 2px black solid;
+   border-radius: 1px;
+}
+
+.linkspart a:hover
+{
+
+    background-color:#1606a5b7; 
+    color: goldenrod;
+	border-radius: 5px;
+
+}
+
+
+.bodypart
+{
+  width:1325px;
+  height:600px;
+  border-style:groove;
+  margin-top:5px;
+}
+
+.bodypart p{
+   color:springgreen;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.bodypart .imagepart
+{
+   width:650px;
+   height:270px;
+   border-style:groove;
+   background-image:url('pics/2.jpg') ;
+   background-repeat:no-repeat;
+   display:inline-block;
+   background-size:cover;
+
+}
+
+.bodypart .newspart h2
+{
+ color:green;
+ margin-left:180px;
+}
+
+
+.bodypart .newspart
+{
+   
+   width:650px;
+   height:520px;
+   font-weight: bold;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   float:right;
+}
+
+
+
+.bodypart .newspart .news
+{
+
+   width:600px;
+   height:400px
+   
+
+
+}
+
+.content p{
+   color: deepskyblue;
+   font-size: 1,2rem;
+   font-weight: 200;
+   width: 50%;
+   height: 200px;
+   margin: 3px;
+   border-right: 3px solid gainsboro;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.newspart{
+   background-color: black;
+   opacity: 0.6;
+}
+
+.newspart p{
+   font-weight:bold;
+}
+
+.newspart:hover{
+   background: none;
+}
+
+p:hover{
+   cursor: pointer;
+}
+
+.bodypart .newspart .news h4
+{
+color:blue;
+
+}
+
+
+.bodypart h3
+{
+color:blue;
+text-align:center;
+
+}
+
+
+.footerpart
+{
+   width:auto;
+   height:30px;
+   margin-top:5px;
+   background-color:rgb(12,100,198);
+   border-style:groove;
+
+}
+
+
+td{
+   font-weight: bold;
+   color: cornsilk;
+}
